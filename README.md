@@ -1,4 +1,5 @@
 <table>
+	<tr>
 	<td>  
 		<div align="left" >
 			  <img src="https://github.com/ballipongala/ballipongala/blob/main/.github/workflows/Create%20a%20image%20%2063be9301-d430-4969-9726-2d149a0ba6c0.png?raw=true" height="400" alt="developer"/>
@@ -25,24 +26,29 @@
 			</tr>
 		</div>
 	</td>
-	<td align="Center" colspan="2">
-		<div align="Center">
-			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-			<img width="12" />
-			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-			<img width="12" />
-			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-			<img width="12" />
-			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-			<img width="12" />
-			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-			<img width="12" />
-			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-			<img width="12" />
-			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-		</div>
-	</td>
-	<td align="Center" colspan="2">
-		 <img src="https://streak-stats.demolab.com?user=ballipongala&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-	</td>
+	</tr>
+	<tr>
+		<td align="Center" colspan="2">
+			<div align="Center">
+				<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+				<img width="12" />
+				<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+				<img width="12" />
+				<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+				<img width="12" />
+				<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+				<img width="12" />
+				<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+				<img width="12" />
+				<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+				<img width="12" />
+				<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+			</div>
+		</td>
+	</tr>
+	<tr>
+		<td align="Center" colspan="2">
+			 <img src="https://streak-stats.demolab.com?user=ballipongala&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+		</td>
+	</tr>
 </table>
