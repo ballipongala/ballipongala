@@ -42,5 +42,7 @@
 			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
 		</div>
 	</td>
-	
+	<td align="Center" colspan="2">
+		 <img src="https://streak-stats.demolab.com?user=ballipongala&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+	</td>
 </table>
