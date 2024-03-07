@@ -47,7 +47,7 @@
 		</td>
 	</tr>
 	<tr>
-		<td align="Center">
+		<td align="Center"  colspan="2">
 			 <img src="https://streak-stats.demolab.com?user=ballipongala&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 		</td>
 		<!-- <td>
