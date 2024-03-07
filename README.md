@@ -9,7 +9,8 @@
             <div height="800" width="300" align="left" >
                  <em>Thanks for stopping by...</em>
                  <br><br><em>I am a <strong>Data Engineer</strong>/Hobbie Web developer.<em>
-                  <br><br><em>I turn ideas into a real-time web applications.<em>
+                  <br><br><em>I turn ideas into a real-time applications.<em>
+                  <br><br><br><br>
                        <ledgend> - Bharath Ballipongala</ledgend>
                  <tr>
                       <td><div align="left" height=150>
