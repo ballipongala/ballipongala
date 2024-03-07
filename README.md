@@ -12,6 +12,8 @@
 			<br><br><em>I turn ideas into a real-time applications.<em>
 			<br><br><br><br>
 				   <ledgend> - Bharath Ballipongala</ledgend>
+			<td align="Center">
+			 <img src="https://streak-stats.demolab.com?user=ballipongala&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  /></td>
 			<tr>
 				<td>
 					<div align="left" height=150>
