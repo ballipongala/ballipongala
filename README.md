@@ -1,10 +1,15 @@
 ### Hi there 👋
 
-<h2 align="left">Hi 👋! My name is Bharath Ballipongala and I'm a Data Engineer, from Atlanta, GA</h2>
-<div align ="center">
-  <img src="https://cdn.gencraft.com/prod/user/392dd840-1edf-4c4d-aa08-16000ed0a91f/f73bd0c3-fc69-4138-a383-225771761eeb/image/image0_0.jpg?Expires=1709936637&Signature=bqvgz-sYZNArMNh7y2slvIKZ2LHcF42eKtfn2yTplH1NdsqWVAEaC~AH~K2ytUKYCt-HIQazyjctPbBq0Zn9DDatwhRN6Wop6emUSHmMfN9cLayHuCUQuuOdR0umjYkRBIfaR9azzFohjzLkJN9IOYBN3CvT5zg7xNHhjLyGKW~aTnyUWQx0JVJ5Bbcn5XZ1dfHqjM3yHKMIMw3MPio1Ki~kIt4DJnVoXWwBoZghBJbISqA22hGMMBtMV6iShr80It8PagqfNIU~G~MoDlACX239sVAwCUqBxvflaGRczs3RYEit5lmTBWvMWa4Gylo5fbZx1fZOBNRhU6Bq5LrZlw__&Key-Pair-Id=K3RDDB1TZ8BHT8" height="150" alt="developer"/>
-</div>
+
 ###
+<div>
+    <div align ="left">
+      <img src="https://github.com/ballipongala/ballipongala/blob/main/.github/workflows/Create%20a%20image%20%2063be9301-d430-4969-9726-2d149a0ba6c0.png?raw=true" height="300" alt="developer"/>
+     </div>
+    <div align="right">
+      <h2 align="left">Hi 👋! My name is Bharath Ballipongala and I'm a Data Engineer, from Atlanta, GA</h2>
+    </div>
+</div>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
