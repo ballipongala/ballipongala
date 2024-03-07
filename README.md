@@ -1,6 +1,3 @@
-### Hi there 👋
-
-
 ###
 <div align="left">
   <h2 align="left">Hi 👋! My name is Bharath Ballipongala and I'm a Data Engineer, from Atlanta, GA</h2>
