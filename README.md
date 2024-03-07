@@ -8,7 +8,7 @@
           <td>  
             <div height="800" width="300" align="left" >
                  <em>Thanks for stopping by...</em>
-                 <br><br><em>I am a web developer.<em>
+                 <br><br><em>I am a Data Engineer/Hobbie Web developer.<em>
                   <br><br><em>I turn ideas into a real-time web applications.<em>
                  <tr>
                       <td><div align="left" height=150>
