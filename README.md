@@ -1,7 +1,9 @@
 ### Hi there 👋
 
 <h2 align="left">Hi 👋! My name is Bharath Ballipongala and I'm a Data Engineer, from Atlanta, GA</h2>
-
+<div align ="center">
+  <img src="https://cdn.gencraft.com/prod/user/392dd840-1edf-4c4d-aa08-16000ed0a91f/f73bd0c3-fc69-4138-a383-225771761eeb/image/image0_0.jpg?Expires=1709936637&Signature=bqvgz-sYZNArMNh7y2slvIKZ2LHcF42eKtfn2yTplH1NdsqWVAEaC~AH~K2ytUKYCt-HIQazyjctPbBq0Zn9DDatwhRN6Wop6emUSHmMfN9cLayHuCUQuuOdR0umjYkRBIfaR9azzFohjzLkJN9IOYBN3CvT5zg7xNHhjLyGKW~aTnyUWQx0JVJ5Bbcn5XZ1dfHqjM3yHKMIMw3MPio1Ki~kIt4DJnVoXWwBoZghBJbISqA22hGMMBtMV6iShr80It8PagqfNIU~G~MoDlACX239sVAwCUqBxvflaGRczs3RYEit5lmTBWvMWa4Gylo5fbZx1fZOBNRhU6Bq5LrZlw__&Key-Pair-Id=K3RDDB1TZ8BHT8" height="150" alt="developer"/>
+</div>
 ###
 
 <div align="center">
