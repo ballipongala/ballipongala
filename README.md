@@ -1,7 +1,7 @@
 ###
 <div align="left">
-    <h2 align="left">Hi 👋! My name is Bharath Ballipongala 
-    <br/>I'm a Data Engineer, from Atlanta, GA</h2>
+    <h2 align="left">Hi 👋! My name is Bharath Ballipongala </h2>
+    <br/>I'm a Data Engineer, from Atlanta, GA
  </div>
 
 <div align="Center">
