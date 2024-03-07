@@ -8,6 +8,8 @@
           <td>  
             <div height="800" width="300" align="left" >
                  <em>Thanks for stopping by...</em>
+                 <em>I am a web developer.<em>
+                  <em>I turn ideas into a real-time web applications.<em>
                  <tr>
                       <td><div align="left" height=150>
                       <img src="https://github-readme-stats.vercel.app/api?username=ballipongala&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false"  height="150" alt="stats graph"  />
