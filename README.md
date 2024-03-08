@@ -56,10 +56,4 @@
 			</div>
 		</td>
 	</tr>	
-	<tr>
-		<td align="Center" colspan="2">
-			<img src="https://raw.githubusercontent.com/ballipongala/ballipongala/output/snake.svg" alt="Snake animation" />		
-		</td>
-	</tr>
-	
 </table>
