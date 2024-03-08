@@ -55,5 +55,11 @@
 			  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
 			</div>
 		</td>
-	</tr>		
+	</tr>	
+	<tr>
+		<td align="Center" colspan="2">
+			<img src="https://raw.githubusercontent.com/ballipongala/ballipongala/output/snake.svg" alt="Snake animation" />		
+		</td>
+	</tr>
+	
 </table>
