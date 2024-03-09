@@ -9,7 +9,6 @@
 			<br><br><em>I turn ideas into a real-time applications.<em>
 			<br><br><br><br>
 			<ledgend> - Bharath Ballipongala</ledgend>
-
 		</section>
 	</section>
 </main>
